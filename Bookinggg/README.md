@@ -1,4 +1,4 @@
-# Booking
+# Booking WAY
 
 > Booking is a reservation MERN Stack application, built with MongoDB, Express.js, React.js, Node.js, ContextAPI, Material UI.
 
